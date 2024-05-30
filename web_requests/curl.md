@@ -4,7 +4,7 @@
 
 | Command                                                                    | Description                                         |
 |--------------------------------------------------------------------------- |-----------------------------------------------------|
-| ```curl -h```                                                              | cURL help menu                                      |
+| `curl -h`                                                                  | cURL help menu                                      |
 | `curl inlanefreight.com`                                                   | Basic GET request                                   |
 | `curl -s -O inlanefreight.com/index.html`                                  | Download file                                       |
 | `curl -k https://inlanefreight.com`                                        | Skip HTTPS (SSL) certificate validation             |

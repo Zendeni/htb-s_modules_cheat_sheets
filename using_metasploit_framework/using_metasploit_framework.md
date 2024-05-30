@@ -1,4 +1,4 @@
-MSFconsole Commands
+##MSFconsole Commands
 | Command | Description |
 |---------|-------------|
 | show exploits | Show all exploits within the Framework. |
@@ -36,7 +36,7 @@ MSFconsole Commands
 | db_destroy | Delete the current database. |
 | db_destroy <user:password@host:port/database> | Delete database using advanced options. |
 
-Meterpreter Commands
+##Meterpreter Commands
 | Command | Description |
 |---------|-------------|
 | help | Open Meterpreter usage help. |
@@ -73,7 +73,7 @@ Meterpreter Commands
 | sniffer_interfaces | List the available interfaces on the target. |
 | sniffer_dump <interfaceID> pcapname | Start sniffing on the remote target. |
 |
-MSFconsole Commands
+##MSFconsole Commands
 | Command | Description |
 |---------|-------------|
 | show exploits | Show all exploits within the Framework. |

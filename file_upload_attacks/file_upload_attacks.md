@@ -22,13 +22,13 @@
 - `shell.pHp`	Case Manipulation
 
 ## PHP Extensions	
-- List of PHP Extensions
+- [List of PHP Extensions](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Upload%20Insecure%20Files/Extension%20PHP/extensions.lst)
 
 ## ASP Extensions	
-- List of ASP Extensions
+- [List of ASP Extensions](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files/Extension%20ASP)
 
 ## Web Extensions	
-- List of Web Extensions
+- [List of Web Extensions](https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/web-extensions.txt)
 
 ## Whitelist Bypass	
 - `shell.jpg.php`	Double Extension
@@ -36,9 +36,9 @@
 - `%20`, `%0a`, `%00`, `%0d0a`, `/`, `.\`, `.`, …	Character Injection - Before/After Extension
 
 ## Content/Type Bypass	
-- Web Content-Types	List of Web Content-Types
-- Content-Types	List of All Content-Types
-- File Signatures	List of File Signatures/Magic Bytes
+- [Web Content-Types	List of Web Content-Types](https://github.com/danielmiessler/SecLists/blob/master/Miscellaneous/web/content-type.txt)
+- [Content-Types	List of All Content-Types](https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/web-all-content-types.txt)
+- [File Signatures	List of File Signatures/Magic Bytes](https://en.wikipedia.org/wiki/List_of_file_signatures)
 
 ## Limited Uploads
 | Potential Attack | File Types            |
